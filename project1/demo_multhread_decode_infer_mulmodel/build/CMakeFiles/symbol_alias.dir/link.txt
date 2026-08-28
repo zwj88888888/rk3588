@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,-soname,libsymbol_alias.so -o libsymbol_alias.so CMakeFiles/symbol_alias.dir/symbol_alias_x265.c.o 

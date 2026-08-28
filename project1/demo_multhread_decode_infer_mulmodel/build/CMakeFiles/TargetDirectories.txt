@@ -1,0 +1,3 @@
+/home/cat/project1/demo_multhread_decode_infer_mulmodel/build/CMakeFiles/rebuild_cache.dir
+/home/cat/project1/demo_multhread_decode_infer_mulmodel/build/CMakeFiles/edit_cache.dir
+/home/cat/project1/demo_multhread_decode_infer_mulmodel/build/CMakeFiles/myDemo.dir
